@@ -1,6 +1,6 @@
 {
   "name": "@muath-ye/url-unshortener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the original URL behind a shortened URL",
   "main": "index.js",
   "bin": {
