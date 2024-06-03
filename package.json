@@ -1,0 +1,22 @@
+{
+  "name": "@muath-ye/url-unshortener",
+  "version": "1.0.0",
+  "description": "Get the original URL behind a shortened URL",
+  "main": "index.js",
+  "bin": {
+    "url-unshortener": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "unshortener"
+  ],
+  "author": "Muath Alsowadi",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
